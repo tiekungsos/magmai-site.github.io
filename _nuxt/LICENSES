@@ -41,6 +41,12 @@
   * 
  */
 
+/**
+  * vue-scroll vundefined
+  * (c) 2019 Wang Pin
+  * @license MIT
+  */
+
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
  * @version 1.16.1
